@@ -40,7 +40,6 @@ import bedsSofaBedsScheme1 from './images/beds/sofa-beds/1/scheme.png';
 import bedsSofaBedsGeneral2 from './images/beds/sofa-beds/2/general.png';
 import bedsSofaBedsScheme2 from './images/beds/sofa-beds/2/scheme.png';
 
-
 import wardrobesCornerWardrobesGeneral1 from './images/wardrobes/corner-wardrobes/1/general.png';
 import wardrobesCornerWardrobesScheme1 from './images/wardrobes/corner-wardrobes/1/scheme.png';
 import wardrobesMirroredWardrobesGeneral1 from './images/wardrobes/mirrored-wardrobes/1/general.png';
@@ -203,7 +202,7 @@ export const products = [
         photo: armchairBedsGeneral1,
         scheme: armchairBedsScheme1,
         subCategoryId: 1,
-        price: '17 999 ₽'
+        price: 17999
     },
     {
         id: 2,
@@ -211,7 +210,7 @@ export const products = [
         photo: fabricArmchairsGeneral1,
         scheme: fabricArmchairsScheme1,
         subCategoryId: 2,
-        price: '9 999 ₽'
+        price: 9999
     },
     {
         id: 3,
@@ -219,7 +218,7 @@ export const products = [
         photo: leatherArmchairsGeneral1,
         scheme: leatherArmchairsScheme1,
         subCategoryId: 3,
-        price: '12 999 ₽'
+        price: 12999
     },
     {
         id: 4,
@@ -227,7 +226,7 @@ export const products = [
         photo: bedsDoubleBedsGeneral1,
         scheme: bedsDoubleBedsScheme1,
         subCategoryId: 9,
-        price: '14 999 ₽'
+        price: 14999
     },
     {
         id: 5,
@@ -235,7 +234,7 @@ export const products = [
         photo: chairsDiningChairsGeneral1,
         scheme: chairsDiningChairsScheme1,
         subCategoryId: 4,
-        price: '5 999 ₽'
+        price: 5999
     },
     {
         id: 6,
@@ -243,7 +242,7 @@ export const products = [
         photo: chairsDiningChairsGeneral2,
         scheme: chairsDiningChairsScheme2,
         subCategoryId: 4,
-        price: '5 999 ₽'
+        price: 5999
     },
     {
         id: 7,
@@ -251,7 +250,7 @@ export const products = [
         photo: chairsBarChairsGeneral1,
         scheme: chairsBarChairsScheme1,
         subCategoryId: 5,
-        price: '8 699 ₽'
+        price: 8699
     },
     {
         id: 8,
@@ -259,7 +258,7 @@ export const products = [
         photo: tablesDesksForHomeGeneral1,
         scheme: tablesDesksForHomeScheme1,
         subCategoryId: 6,
-        price: '8 999 ₽'
+        price: 8999
     },
      {
         id: 9,
@@ -267,7 +266,7 @@ export const products = [
         photo: tablesConferenceTablesGeneral1,
         scheme: tablesConferenceTablesScheme1,
         subCategoryId: 7,
-        price: '18 999 ₽'
+        price: 18999
     },
      {
         id: 10,
@@ -275,7 +274,7 @@ export const products = [
         photo: tablesExtendableTablesGeneral1,
         scheme: tablesxtendableTablesScheme1,
         subCategoryId: 8,
-        price: '23 999 ₽'
+        price: 23999
     },
     {
         id: 11,
@@ -283,7 +282,7 @@ export const products = [
         photo: wardrobesCornerWardrobesGeneral1,
         scheme: wardrobesCornerWardrobesScheme1,
         subCategoryId: 14,
-        price: '25 650 ₽'
+        price: 25650
     },
     {
         id: 12,
@@ -291,7 +290,7 @@ export const products = [
         photo: wardrobesMirroredWardrobesGeneral1,
         scheme: wardrobesMirroredWardrobesScheme1,
         subCategoryId: 15,
-        price: '34 999 ₽'
+        price: 34999
     },
     {
         id: 13,
@@ -299,7 +298,7 @@ export const products = [
         photo: wardrobesSolitaireWardrobesGeneral1,
         scheme: wardrobesSolitaireWardrobesScheme1,
         subCategoryId: 16,
-        price: '12 670 ₽'
+        price: 12670
     },
     {
         id: 14,
@@ -307,7 +306,7 @@ export const products = [
         photo: bedsDoubleBedsGeneral2,
         scheme: bedsDoubleBedsScheme2,
         subCategoryId: 9,
-        price: '4 200 ₽'
+        price: 4200
     },
     {
         id: 15,
@@ -315,7 +314,7 @@ export const products = [
         photo: bedsDoubleBedsGeneral3,
         scheme: bedsDoubleBedsScheme3,
         subCategoryId: 9,
-        price: '13 730 ₽'
+        price: 13730
     },
     {
         id: 16,
@@ -323,7 +322,7 @@ export const products = [
         photo: bedsDoubleBedsGeneral4,
         scheme: bedsDoubleBedsScheme4,
         subCategoryId: 9,
-        price: '53 100 ₽'
+        price: 53100
     },
     {
         id: 17,
@@ -331,7 +330,7 @@ export const products = [
         photo: bedsCotsBedsGeneral1,
         scheme: bedsCotsBedsScheme1,
         subCategoryId: 10,
-        price: '37 160 ₽'
+        price: 37160
     },
     {
         id: 18,
@@ -339,7 +338,7 @@ export const products = [
         photo: bedsLoftBedsGeneral1,
         scheme: bedsLoftBedsScheme1,
         subCategoryId: 11,
-        price: '37 160 ₽'
+        price: 37160
     },
     {
         id: 19,
@@ -347,7 +346,7 @@ export const products = [
         photo: bedsSingleBedsGeneral1,
         scheme: bedsSingleBedsScheme1,
         subCategoryId: 12,
-        price: '24 900 ₽'
+        price: 24900
     },
     {
         id: 20,
@@ -355,7 +354,7 @@ export const products = [
         photo: bedsSingleBedsGeneral2,
         scheme: bedsSingleBedsScheme2,
         subCategoryId: 12,
-        price: '3 100 ₽'
+        price: 3100
     },
     {
         id: 21,
@@ -363,7 +362,7 @@ export const products = [
         photo: bedsSofaBedsGeneral1,
         scheme: bedsSofaBedsScheme1,
         subCategoryId: 13,
-        price: '47 800 ₽'
+        price: 47800
     },
     {
         id: 22,
@@ -371,6 +370,6 @@ export const products = [
         photo: bedsSofaBedsGeneral2,
         scheme: bedsSofaBedsScheme2,
         subCategoryId: 13,
-        price: '87 200 ₽'
+        price: 87200
     },
 ]

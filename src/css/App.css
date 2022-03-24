@@ -18,7 +18,23 @@
 main {
   padding-bottom: 70px;
 }
-
-/*counter*/
-.counter {
+.action {
+  min-width: 35px;
+  min-height: 35px;
+}
+.action.basket {
+  position: relative;
+}
+.counter.active {
+  background-color: #0058a3;
+  color: #fff;
+  border-radius: 50px;
+  position: absolute;
+  text-align: center;
+  padding: 1.5px;
+  top: 0px;
+  right: 0px;
+  width: 18px;
+  height: 18px;
+  font-size: 0.8rem;
 }
