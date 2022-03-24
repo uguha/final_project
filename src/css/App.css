@@ -1,0 +1,24 @@
+.products {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 30px;
+  grid-row-gap: 1em;
+}
+.product-link {
+  color: #000;
+  text-decoration: none;
+}
+.product-link:hover {
+  text-decoration: revert;
+}
+.product-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+main {
+  padding-bottom: 70px;
+}
+
+/*counter*/
+.counter {
+}
